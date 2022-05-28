@@ -209,9 +209,3 @@ img {
     grid-row: 1;
   }
 }
-
-@media (max-height: 44em) {
-  html {
-    font-size: 37.5%;
-  }
-}
